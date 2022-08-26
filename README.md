@@ -4,9 +4,7 @@ Learning/Using C#, Java.
 
  <p align="center"><img align="center" src= [![ec8zy Github stats](https://github-readme-stats.vercel.app/api?username=ect8zy&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ect8zy&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)/></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ect8zy&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
  
- 
- ![https://discord.com/users/813776967185727488](https://discord.c99.nl/widget/theme-4/813776967185727488.png)
+![https://discord.com/users/813776967185727488](https://discord.c99.nl/widget/theme-4/813776967185727488.png)
