@@ -1,7 +1,9 @@
 Learning/Using C#, Java. 
 
 <p align='center'>
-   <img src=https://user-images.githubusercontent.com/106690677/186950537-d402bc34-e17c-4c1b-a9d7-773897662d26.gif)
+   
+   ![3433108ed31434724fffdadcfbc4dab4](https://user-images.githubusercontent.com/106690677/186951138-e87d6826-2706-4bfc-aa80-02cf7f80581b.gif)
+
 </p>
 
 <p align='center'>
