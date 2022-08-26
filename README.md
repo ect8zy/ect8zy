@@ -1,4 +1,6 @@
-Learning/Using C#, Java and i also have good musical taste
+Learning/Using C#, Java. 
+
+I have good musical taste tho
 
 
 [![ec8zy Github stats](https://github-readme-stats.vercel.app/api?username=ect8zy&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
