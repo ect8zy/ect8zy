@@ -4,5 +4,5 @@ nothing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ect8zy&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-![https://discord.com/users/686800430176665621](https://discord.c99.nl/widget/theme-4/813776967185727488.png)
+![https://discord.com/users/813776967185727488](https://discord.c99.nl/widget/theme-4/813776967185727488.png)
 
