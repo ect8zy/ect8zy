@@ -1,4 +1,4 @@
-nothing
+Learning/Using C#, Java
 
 [![ec8zy Github stats](https://github-readme-stats.vercel.app/api?username=ect8zy&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
