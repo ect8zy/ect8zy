@@ -2,7 +2,7 @@ Learning/Using C#, Java.
 
 ![3433108ed31434724fffdadcfbc4dab4](https://user-images.githubusercontent.com/106690677/186951314-c36fd3cb-b3fe-48da-bc63-0f579b441b82.gif)
 
- <p align="center"><img align="center" src= [![ec8zy Github stats](https://github-readme-stats.vercel.app/api?username=ect8zy&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![ec8zy Github stats](https://github-readme-stats.vercel.app/api?username=ect8zy&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ect8zy&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
